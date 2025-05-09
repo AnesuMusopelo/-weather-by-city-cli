@@ -15,9 +15,8 @@ python weather.py "Gaborone"
 python weather.py "New York" --units imperial
 ```
 
-No keys. No config. It geocodes the city name and shows the current temperature, wind, and an emoji icon.
-
 ## Files
+
 - `weather.py` – the CLI
 - `requirements.txt` – dependencies (`requests`, `rich`)
 
